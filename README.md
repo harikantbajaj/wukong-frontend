@@ -11,7 +11,7 @@
 
 _A stunning, animated landing page for the epic action RPG Black Myth: Wukong, inspired by Chinese mythology._
 
-[🌐 Live Demo](https://your-demo-link.com) | [🎮 Game Info](https://blackmythwukong.com)
+[🌐 Live Demo](https://wukong-frontend.vercel.app/) | [🎮 Game Info](https://blackmythwukong.com)
 
 </div>
 
